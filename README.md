@@ -2,13 +2,13 @@
 
 This project aims to detect traffic red light violations using computer vision and machine learning. It employs real-time recognition of traffic light states and identifies vehicles violating red signals.
 
-#Features
+# Features
 
-Real-Time Traffic Light Detection: Accurately identifies red, yellow, and green lights from video feeds.
+* Real-Time Traffic Light Detection: Accurately identifies red, yellow, and green lights from video feeds.
 
-Violation Detection: Flags vehicles crossing intersections during a red light.
+* Violation Detection: Flags vehicles crossing intersections during a red light.
 
-License Plate Recognition: Uses OCR to extract license plate numbers of violating vehicles.
+* License Plate Recognition: Uses OCR to extract license plate numbers of violating vehicles.
 
 # Technologies Used
 
