@@ -2,7 +2,7 @@
 
 This project aims to detect traffic red light violations using computer vision and machine learning. It employs real-time recognition of traffic light states and identifies vehicles violating red signals.
 
-Features
+#Features
 
 Real-Time Traffic Light Detection: Accurately identifies red, yellow, and green lights from video feeds.
 
@@ -10,9 +10,9 @@ Violation Detection: Flags vehicles crossing intersections during a red light.
 
 License Plate Recognition: Uses OCR to extract license plate numbers of violating vehicles.
 
-Technologies Used
+# Technologies Used
 
-Python Libraries:
+* Python Libraries:
 
 OpenCV for image processing
 
@@ -21,21 +21,21 @@ Tesseract OCR and EasyOCR for text recognition
 Matplotlib, NumPy, Seaborn for data visualization
 
 
-Workflow
+# Workflow
 
-Traffic Light Detection:
+* Traffic Light Detection:
 
 Recognizes the state of the traffic light in real-time using OpenCV.
 
-Violation Identification:
+* Violation Identification:
 
 Tracks vehicle movement to detect crossings during a red light.
 
-OCR Processing:
+* OCR Processing:
 
 Extracts license plate details for identified violators using Tesseract OCR.
 
-Dataset:
+# Dataset:
 
 https://www.kaggle.com/datasets/farzadnekouei/license-plate-recognition-for-red-light-violation
 
