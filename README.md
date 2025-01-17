@@ -10,7 +10,7 @@ _This project aims to detect traffic red light violations using computer vision 
 
 * _License Plate Recognition: Uses OCR to extract license plate numbers of violating vehicles._
 
-# Technologies Used
+# **Technologies Used**
 
 **Python Libraries:**
 
