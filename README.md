@@ -16,7 +16,7 @@ _This project aims to detect traffic red light violations using computer vision 
 
 _OpenCV for image processing_
 
-__Tesseract OCR and EasyOCR for text recognition_
+_Tesseract OCR and EasyOCR for text recognition_
 
 _Matplotlib, NumPy, Seaborn for data visualization_
 
