@@ -23,19 +23,19 @@ _This project aims to detect traffic red light violations using computer vision 
 
 # _Workflow_
 
-** Traffic Light Detection:**
+ Traffic Light Detection:
 
 Recognizes the state of the traffic light in real-time using OpenCV.
 
-** Violation Identification:**
+Violation Identification:
 
 Tracks vehicle movement to detect crossings during a red light.
 
-** OCR Processing:**
+OCR Processing:
 
 Extracts license plate details for identified violators using Tesseract OCR.
 
-_**# Dataset:**_
+# _**Dataset:**_
 
 https://www.kaggle.com/datasets/farzadnekouei/license-plate-recognition-for-red-light-violation
 
