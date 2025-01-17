@@ -25,15 +25,15 @@ _This project aims to detect traffic red light violations using computer vision 
 
 _**Traffic Light Detection:**_
 
-Recognizes the state of the traffic light in real-time using OpenCV.
+* _Recognizes the state of the traffic light in real-time using OpenCV._
 
 _**Violation Identification:**_
 
-Tracks vehicle movement to detect crossings during a red light.
+* _Tracks vehicle movement to detect crossings during a red light._
 
 _**OCR Processing:**_
 
-Extracts license plate details for identified violators using Tesseract OCR.
+* _Extracts license plate details for identified violators using Tesseract OCR._
 
 # _**Dataset:**_
 
