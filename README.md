@@ -14,11 +14,11 @@ _This project aims to detect traffic red light violations using computer vision 
 
 **Python Libraries:**
 
-_OpenCV for image processing_
+* _OpenCV for image processing_
 
-_Tesseract OCR and EasyOCR for text recognition_
+* _Tesseract OCR and EasyOCR for text recognition_
 
-_Matplotlib, NumPy, Seaborn for data visualization_
+* _Matplotlib, NumPy, Seaborn for data visualization_
 
 
 # Workflow
